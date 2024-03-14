@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.table {
+  background-color: skyblue;
+}
